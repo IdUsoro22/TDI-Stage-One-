@@ -6,7 +6,7 @@ from prediction import run_prediction
 st.set_page_config(page_title="Loan Prediction", page_icon="📊", layout="wide")
 
 # Load and display logo and title
-logo_path = "image\logo.png" 
+logo_path = "image/logo.png" 
 
 # Header layout
 col1, col2 = st.columns([1, 10])
